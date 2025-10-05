@@ -21,9 +21,11 @@ M4 — Переменные и функции.
 • Встроенные функции: abs(x), sqrt(x), pow(a,b), max(a,b,...), min(...).
 
 ## Установка
-git clone https://github.com/YegorMihailov/PythonLabs.git
-cd lab1
-pip install -e .
+ git clone https://github.com/YegorMihailov/PythonLabs.git
+ 
+ cd lab1
+ 
+ pip install -e .
 
 ## Запуск тестов
 
