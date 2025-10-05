@@ -21,13 +21,9 @@ M4 — Переменные и функции.
 • Встроенные функции: abs(x), sqrt(x), pow(a,b), max(a,b,...), min(...).
 
 ## Установка
- git clone https://github.com/Opik1704/Calculator_k.git 
- простите я просто хз как писать установку был
- 
+ git clone https://github.com/Opik1704/Calculator_k.git  
  cd lab1
- 
  pip install -e .
-
 ## Запуск тестов
 
 python test.py
